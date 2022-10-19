@@ -32,6 +32,7 @@ Diseñar interfaz...
 
 +----------------------------------------------+
 | - Tu saldo actual es de 500
-| - cONSULTAR EL ETADO DE 788888888888888888888888888888888888888888888888888888888888888888888888888888888888888888Z
-|
-|
+| - Consultar el estado de cuenta
+| - Retirar efectivo
+| - Seguros 
+| - Creditos  
